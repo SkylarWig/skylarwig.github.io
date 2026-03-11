@@ -30,3 +30,23 @@ h1{
 .navbar li{
     float: left;
 }
+.paper{
+    background-color: white;
+    padding: 20px;
+    margin-top: 20px;
+    border-radius: 6px;
+}
+
+.paper-button{
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 16px;
+    background-color: #2E8B57;
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+}
+
+.paper-button:hover{
+    background-color: #006400;
+}
